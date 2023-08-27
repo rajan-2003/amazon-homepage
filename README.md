@@ -1,2 +1,2 @@
 # amazon-homepage
-<a href="https://amazon-homepage-eosin.vercel.app/">Link</a>
+<a href="https://amazon-homepage-eosin.vercel.app/">Visit Nowk</a>
